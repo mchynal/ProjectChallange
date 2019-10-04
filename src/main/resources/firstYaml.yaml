@@ -1,0 +1,5 @@
+---
+endpoint: /api/user/\\d+
+firstName: "Adrian"
+lastName: "Romanski"
+age: 25

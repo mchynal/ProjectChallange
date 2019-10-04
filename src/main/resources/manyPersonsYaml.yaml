@@ -1,0 +1,34 @@
+---
+endpoint: /api/user/\\d+
+
+json: '{
+
+"id": 123
+
+"name": "jan"
+
+}'
+
+---
+endpoint: /api/user/\\d+
+json: '{
+
+"id": 456
+
+"name": "piotrek"
+
+}'
+
+---
+endpoint: /api/user/\\d+
+json: '{
+
+"id": 789
+
+"name": "filip"
+
+}'
+
+
+
+
